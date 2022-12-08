@@ -1,7 +1,6 @@
 # myReact
 #lý thuyết:
 bai 1:[https://codepen.io/hieulai24/pen/bGKmLVN]
-bai 2:
 bai 3:[https://codepen.io/hieulai24/pen/yLERvJg]
 bai 4:[https://codepen.io/hieulai24/pen/vYrVRXL]
 bai 5:[https://codepen.io/hieulai24/pen/JjZmpXv]
